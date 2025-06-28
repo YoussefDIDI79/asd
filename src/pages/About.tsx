@@ -1,5 +1,5 @@
-import { Card, CardContent } from "@/components/ui/card";
-import AnimatedSection from "@/components/AnimatedSection";
+import { Card, CardContent } from "../components/ui/card";
+import AnimatedSection from "../components/AnimatedSection";
 import { GraduationCap, Award, Target, Eye } from "lucide-react";
 import { useState } from "react";
 

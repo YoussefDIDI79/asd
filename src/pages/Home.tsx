@@ -1,8 +1,8 @@
 import { Link } from "wouter";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import AnimatedSection from "@/components/AnimatedSection";
-import FeatureSection from "@/components/FeatureSection";
+import { Button } from "../components/ui/button";
+import { Card, CardContent } from "../components/ui/card";
+import AnimatedSection from "../components/AnimatedSection";
+import FeatureSection from "../components/FeatureSection";
 import { motion } from "framer-motion";
 import { 
   Smile, 

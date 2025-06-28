@@ -1,4 +1,4 @@
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "../components/ui/card";
 import AnimatedSection from "./AnimatedSection";
 import { Shield, Award, Clock, Users, Star, Heart } from "lucide-react";
 

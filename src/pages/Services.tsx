@@ -1,7 +1,7 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "../components/ui/card";
+import { Button } from "../components/ui/button";
 import { Link } from "wouter";
-import AnimatedSection from "@/components/AnimatedSection";
+import AnimatedSection from "../components/AnimatedSection";
 import { 
   Circle, 
   Smile, 
